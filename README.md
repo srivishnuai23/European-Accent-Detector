@@ -16,3 +16,5 @@ pip install librosa soundfile --break-system-packages
 - If you want to add your own audio, add it to the /tests folder
 
 ---
+
+Refer to the report for further reading about iteration 1 and 2. 
